@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # StudyNotion_MERN-Stack
 Introducing StudyNotion: StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.🎓
 
@@ -22,5 +21,3 @@ Introducing StudyNotion: StudyNotion is a fully functional ed-tech platform that
 ✨ User Engagement: Foster a community of knowledge-sharing enthusiasts.
 ✨ Seamless Transactions: Experience hassle-free payments with Razorpay.
 =======
-# StudyNotion Edtech Project
->>>>>>> bb518a1 (First Commit studynotion)
