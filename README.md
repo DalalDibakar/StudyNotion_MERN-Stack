@@ -15,9 +15,3 @@ Introducing StudyNotion: StudyNotion is a fully functional ed-tech platform that
 🔹 Backend: NodeJS with Express.JS and Mongoose framework for a robust server architecture.
 🔹 Database: MongoDB for efficient data management.
 🔹Cloudinary for hosting and managing media.
-
-🎯 What Makes StudyNotion Unique?
-✨ Content Variety: Explore a rich array of educational resources.
-✨ User Engagement: Foster a community of knowledge-sharing enthusiasts.
-✨ Seamless Transactions: Experience hassle-free payments with Razorpay.
-=======
